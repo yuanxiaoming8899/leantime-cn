@@ -1,211 +1,271 @@
-
-<div align="center">
-<a href="https://leantime.io"><img src="https://leantime.io/wp-content/uploads/2023/03/leantime_logo.png" alt="Leantime Logo" width="300"/></a>
-
-### Leantime&reg; ###
-
-Leantime is an open source project management system for non-project manager.<br />We combine strategy, planning and executing while making it easy for everyone on the team to use. Building with ADHD, dyslexia and Autistism in mind. <br />It's an alternative to ClickUp, Monday, or Asana. As simple as Trello but as feature-rich as Jira.<br />[https://leantime.io](https://leantime.io)<br />
-
-<a href="https://trendshift.io/repositories/2264" target="_blank"><img src="https://trendshift.io/api/badge/repositories/2264" alt="Leantime%2Fleantime | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-[![License Badge](https://img.shields.io/github/license/leantime/leantime?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![Docker Hub Badge](https://img.shields.io/docker/pulls/leantime/leantime?style=flat-square)](https://hub.docker.com/r/leantime/leantime)
-![Github Downloads](https://img.shields.io/github/downloads/leantime/leantime/total)
-[![Discord Badge](https://img.shields.io/discord/990001288026677318?label=Discord&style=flat-square)](https://discord.gg/4zMzJtAq9z)
-[![Crowdin](https://badges.crowdin.net/leantime/localized.svg)](https://crowdin.com/project/leantime)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/leantime)
-<br />
-
-  ![alt text](public/assets/images/Screenshots/mywork.png "Home Screen")
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+<a href="https://leantime.io" rel="nofollow"><img src="https://camo.githubusercontent.com/7e8042851e9253ec836f0b17164da74e84945d5f81a68f91e1eb1adc24bcb319/68747470733a2f2f6c65616e74696d652e696f2f77702d636f6e74656e742f75706c6f6164732f323032332f30332f6c65616e74696d655f6c6f676f2e706e67" alt="精益时代标志" width="300" data-canonical-src="https://leantime.io/wp-content/uploads/2023/03/leantime_logo.png" style="max-width: 100%;"></a>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Leantime®</font></font></h3><a id="user-content-leantime" class="anchor" aria-label="永久链接：Leantime®" href="#leantime"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Leantime 是一个面向非项目经理的开源项目管理系统。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们将战略、规划和执行结合起来，同时让团队中的每个人都可以轻松使用。</font><font style="vertical-align: inherit;">构建时要考虑到注意力缺陷多动症、阅读障碍和自闭症。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是 ClickUp、Monday 或 Asana 的替代品。</font><font style="vertical-align: inherit;">像 Trello 一样简单，但像 Jira 一样功能丰富。</font></font><br><a href="https://leantime.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://leantime.io</font></font></a><br></p>
+<p dir="auto"><a href="https://trendshift.io/repositories/2264" rel="nofollow"><img src="https://camo.githubusercontent.com/5e2023816e40bdb654186b5f95a31d84e97b4a3a9c52c50b70c681d368888281/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f32323634" alt="Leantime%2Fleantime |  趋势转变" style="width: 250px; height: 55px; max-width: 100%;" width="250" height="55" data-canonical-src="https://trendshift.io/api/badge/repositories/2264"></a></p>
+<p dir="auto"><a href="https://www.gnu.org/licenses/agpl-3.0.en.html" rel="nofollow"><img src="https://camo.githubusercontent.com/0d2f5a8068f2c238dd13e9e26b08f5bf65190aed938d7c842a082a8d7bc5cae9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c65616e74696d652f6c65616e74696d653f7374796c653d666c61742d737175617265" alt="执照徽章" data-canonical-src="https://img.shields.io/github/license/leantime/leantime?style=flat-square" style="max-width: 100%;"></a>
+<a href="https://hub.docker.com/r/leantime/leantime" rel="nofollow"><img src="https://camo.githubusercontent.com/b54d3240de58fc9a4321ec97b60d6774da5daaa9f6c6d873cf029ea82ea8c699/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6c65616e74696d652f6c65616e74696d653f7374796c653d666c61742d737175617265" alt="Docker 中心徽章" data-canonical-src="https://img.shields.io/docker/pulls/leantime/leantime?style=flat-square" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7751deb5c7040d4018ac440b7c38ef97d864fa3733e4cd0c8031ac433142b21b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f6c65616e74696d652f6c65616e74696d652f746f74616c"><img src="https://camo.githubusercontent.com/7751deb5c7040d4018ac440b7c38ef97d864fa3733e4cd0c8031ac433142b21b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f6c65616e74696d652f6c65616e74696d652f746f74616c" alt="GitHub 下载" data-canonical-src="https://img.shields.io/github/downloads/leantime/leantime/total" style="max-width: 100%;"></a>
+<a href="https://discord.gg/4zMzJtAq9z" rel="nofollow"><img src="https://camo.githubusercontent.com/372b2ce7d9e1054fe94cb506ffac82a7a4f3feff9587e8806a93960a1cb3c47d/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3939303030313238383032363637373331383f6c6162656c3d446973636f7264267374796c653d666c61742d737175617265" alt="不和谐徽章" data-canonical-src="https://img.shields.io/discord/990001288026677318?label=Discord&amp;style=flat-square" style="max-width: 100%;"></a>
+<a href="https://crowdin.com/project/leantime" rel="nofollow"><img src="https://camo.githubusercontent.com/52b829cc8eb1ab0d47c4b1e783db93202aaeb7797baa6c6533c40594bee5b6e2/68747470733a2f2f6261646765732e63726f7764696e2e6e65742f6c65616e74696d652f6c6f63616c697a65642e737667" alt="克罗丁" data-canonical-src="https://badges.crowdin.net/leantime/localized.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27e14b510449e72f36e96a4f5f02423ccbe7fdf4b69783038e375906bd934be3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73706f6e736f72732f6c65616e74696d65"><img src="https://camo.githubusercontent.com/27e14b510449e72f36e96a4f5f02423ccbe7fdf4b69783038e375906bd934be3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73706f6e736f72732f6c65616e74696d65" alt="GitHub 赞助商" data-canonical-src="https://img.shields.io/github/sponsors/leantime" style="max-width: 100%;"></a>
+<br></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/mywork.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/mywork.png" alt="替代文本" title="主屏幕" style="max-width: 100%;"></a></p>
 </div>
-<br /><br />
-
-## 🚀 Features* ##
-| Task Management                                                      | Project Planning                             | Information/Knowledge Management        | Administration                                  |
-| -------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------- |-------------------------------------------------|
-| Task management via<br>kanban boards, gantt, table, list and calendar views | Project Dashboards, reports & status updates | Wikis / Docs                     | Easy installation                               |
-| Unlimited subtasks and dependencies                                  | Goal & metrics tracking                      | Idea Boards                             | Multiple user roles and per project permissions |
-| Milestone management                                                 | Lean & Business Model Canvas                 | Retrospectives                          | Two factor authentication                       |
-| Sprint Management                                                    | SWOT Analysis canvas                         | File Storage via S3 or local filesystem | LDAP, OIDC integration                          |
-| Timetracking & timesheets                                            | Risk Analysis                                | Screen & webcam recording               | Extendable via plugins and API                  |
-|                                                                      | ... and more                                 | Comments/discussions on everything      | Integrates with Slack, Mattermost, Discord      |
-|                                                                      | ... and more                                 |     | Available in over 20 languages                  |     
-*yes, all of these features are included in the OSS version
-<br /><br />
-### 📸 Screenshots ###
-
-| ![alt text](public/assets/images/Screenshots/dark.png "My Work")        |  ![alt text](public/assets/images/Screenshots/projectDashboard.png "Project Dashboard")     |      ![alt text](public/assets/images/Screenshots/table.png "Grouped To-Dos")      |
-|-------------------------------------------------------------------------|:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
-| ![alt text](public/assets/images/Screenshots/kanban.png "Kanban Board") | ![alt text](public/assets/images/Screenshots/timeline.png "Tasks on timeline") |   ![alt text](public/assets/images/Screenshots/calendar.png "Project Calendar")    |
-| ![alt text](public/assets/images/Screenshots/goals.png "Goals")         |    ![alt text](public/assets/images/Screenshots/docs.png "Documents & Wikis")     |      ![alt text](public/assets/images/Screenshots/timesheet.png "Timsheets")       |
-
-<br /><br />
-### ❗System Requirements ###
-
-* PHP 8.1+
-* MySQL 5.7+
-* Apache or Nginx (IIS works with some modifications)
-* PHP Extensions: 
-* * mysql, mbstring, GD, exif, pcntl, bcmath, opcache, ldap
-<br /><br />
-### ️⚡️ Installation (Production) ###
-
-There are two main ways to install LeanTime for production. The first of which is to install all needed pieces of the system locally. The second is to use the officially supported Docker image.
-
-#### Local Production Installation ####
-
-* Download latest release package from our <a href="https://leantime.io/download-leantime/">Website</a> or <a href="https://github.com/Leantime/docker-leantime/releases">Github</a>
-* Create an empty MySQL database
-* Upload the entire directory to your server 
-* Point your domain root to the `public/` directory
-* Rename `config/.env.sample` to `config/.env`
-* Fill in your database credentials (username, password, host, dbname) in `config/.env`
-* Navigate to `<yourdomain.com>/install`
-* Follow instructions to install database and set up first user account
-
-##### IIS Installation Notes #####
-
-Whilst the steps above are applicable to Internet Information Services (IIS), there is an additional configuration change that may be required in IIS to ensure full functionality - you need to allow the PATCH method:
-
-* Open IIS
-* Expand the server and sites on the left and select the LeanTime site
-* Double click on `Handler Mappings`
-* Double click on the PHP handler mapping that is used by the site
-* Click `Request Restrictions…`
-* Click the `Verbs` tab
-* In the `One of the following verbs` text box, add `,PATCH` - for example: `GET,HEAD,POST,PATCH`
-* Click `OK`
-* In the `Executable (optional)` text box, put a double quote character (`“`) at the start and at the end of the path to the `php-cgi.exe` file (_this isn't needed if the path doesn't have a space in it_)
-* Click `OK`
-* A popup will appear asking if you want to create a FastCGI application - click `Yes`
-
-Note: You may need to repeat this when you upgrade PHP.
-
-#### Production Installation via Docker ####
-
-We maintain an official <a href="https://hub.docker.com/r/leantime/leantime">Docker image on dockerhub</a>. 
-To run the image enter your MySQL credentials and execute. You can pass in all the configuration variables from .env
-
-```
-docker run -d --restart unless-stopped -p 80:80 --network leantime-net \
+<br><br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 特点*</font></font></h2><a id="user-content--features" class="anchor" aria-label="永久链接：🚀 功能*" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<table>
+<thead>
+<tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">任务管理</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目计划</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息/知识管理</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行政</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过看板、甘特图、表格、列表和日历视图</font><font style="vertical-align: inherit;">进行任务管理</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目仪表板、报告和状态更新</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维基/文档</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简易安装</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无限的子任务和依赖关系</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目标和指标跟踪</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创意板</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多个用户角色和每个项目权限</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">里程碑管理</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">精益与商业模式画布</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">回顾展</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">两因素身份验证</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">冲刺管理</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SWOT 分析画布</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 S3 或本地文件系统进行文件存储</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LDAP、OIDC 集成</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">时间跟踪和时间表</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">风险分析</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">屏幕和网络摄像头录制</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可通过插件和 API 进行扩展</font></font></td>
+</tr>
+<tr>
+<td></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">... 和更多</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对一切的评论/讨论</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与 Slack、Mattermost、Discord 集成</font></font></td>
+</tr>
+<tr>
+<td></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">... 和更多</font></font></td>
+<td></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有 20 多种语言版本</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*是的，所有这些功能都包含在 OSS 版本中</font></font></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><br><br></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📸 截图</font></font></h3><a id="user-content--screenshots" class="anchor" aria-label="永久链接：📸 截图" href="#-screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<table>
+<thead>
+<tr>
+<th><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/dark.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/dark.png" alt="替代文本" title="我的工作" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/projectDashboard.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/projectDashboard.png" alt="替代文本" title="项目仪表板" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/table.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/table.png" alt="替代文本" title="分组待办事项" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/kanban.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/kanban.png" alt="替代文本" title="看板" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/timeline.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/timeline.png" alt="替代文本" title="时间轴上的任务" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/calendar.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/calendar.png" alt="替代文本" title="项目日历" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/goals.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/goals.png" alt="替代文本" title="目标" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/docs.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/docs.png" alt="替代文本" title="文档和维基" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Leantime/leantime/blob/master/public/assets/images/Screenshots/timesheet.png"><img src="/Leantime/leantime/raw/master/public/assets/images/Screenshots/timesheet.png" alt="替代文本" title="模板表" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><br><br></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗系统要求</font></font></h3><a id="user-content-system-requirements" class="anchor" aria-label="永久链接：❗系统要求" href="#system-requirements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP 8.1+</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MySQL 5.7+</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache 或 Nginx（IIS 可以进行一些修改）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP 扩展：</font></font></li>
+<li>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mysql、mbstring、GD、exif、pcntl、bcmath、opcache、ldap
+</font></font><br><br></li>
+</ul>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">️⚡️安装（生产）</font></font></h3><a id="user-content-️️-installation-production" class="anchor" aria-label="永久链接：️⚡️安装（生产）" href="#️️-installation-production"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 LeanTime 进行生产有两种主要方法。</font><font style="vertical-align: inherit;">第一个是在本地安装系统所需的所有部分。</font><font style="vertical-align: inherit;">第二种是使用官方支持的Docker镜像。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地生产安装</font></font></h4><a id="user-content-local-production-installation" class="anchor" aria-label="永久链接：本地生产安装" href="#local-production-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><a href="https://leantime.io/download-leantime/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从我们的网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font><a href="https://github.com/Leantime/docker-leantime/releases"><font style="vertical-align: inherit;">Github</font></a><font style="vertical-align: inherit;">下载最新版本包</font></font><a href="https://github.com/Leantime/docker-leantime/releases"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建一个空的 MySQL 数据库</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将整个目录上传到您的服务器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将您的域根目录指向该</font></font><code>public/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重命名</font></font><code>config/.env.sample</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为</font></font><code>config/.env</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">填写您的数据库凭据（用户名、密码、主机、数据库名）</font></font><code>config/.env</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导航</font></font><code>&lt;yourdomain.com&gt;/install</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按照说明安装数据库并设置第一个用户帐户</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h5 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IIS 安装说明</font></font></h5><a id="user-content-iis-installation-notes" class="anchor" aria-label="永久链接：IIS 安装说明" href="#iis-installation-notes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虽然上述步骤适用于 Internet 信息服务 (IIS)，但 IIS 中可能需要进行额外的配置更改才能确保完整功能 - 您需要允许 PATCH 方法：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开IIS</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">展开左侧的服务器和站点并选择 LeanTime 站点</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">双击</font></font><code>Handler Mappings</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">双击站点使用的 PHP 处理程序映射</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击</font></font><code>Request Restrictions…</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单击</font></font><code>Verbs</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选项卡</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在</font></font><code>One of the following verbs</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本框中添加</font></font><code>,PATCH</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 例如：</font></font><code>GET,HEAD,POST,PATCH</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击</font></font><code>OK</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在文本框中，</font><font style="vertical-align: inherit;">在文件路径的开头和结尾处</font></font><code>Executable (optional)</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">放置双引号字符 ( ) </font><font style="vertical-align: inherit;">（</font><em><font style="vertical-align: inherit;">如果路径中没有空格，则不需要这样做</font></em><font style="vertical-align: inherit;">）</font></font><code>“</code><font style="vertical-align: inherit;"></font><code>php-cgi.exe</code><font style="vertical-align: inherit;"></font><em><font style="vertical-align: inherit;"></font></em><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击</font></font><code>OK</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将出现一个弹出窗口，询问您是否要创建 FastCGI 应用程序 - 单击</font></font><code>Yes</code></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：升级 PHP 时可能需要重复此操作。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 Docker 进行生产安装</font></font></h4><a id="user-content-production-installation-via-docker" class="anchor" aria-label="永久链接：通过 Docker 进行生产安装" href="#production-installation-via-docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://hub.docker.com/r/leantime/leantime" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们在 dockerhub 上</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维护官方Docker 镜像</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">要运行该映像，请输入您的 MySQL 凭据并执行。</font><font style="vertical-align: inherit;">您可以从 .env 传入所有配置变量</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>docker run -d --restart unless-stopped -p 80:80 --network leantime-net \
 -e LEAN_DB_HOST=mysql_leantime \
 -e LEAN_DB_USER=admin \
 -e LEAN_DB_PASSWORD=321.qwerty \
 -e LEAN_DB_DATABASE=leantime \
 -e LEAN_EMAIL_RETURN=changeme@local.local \
 --name leantime leantime/leantime:latest
-```
-
-Unless you have a database defined somewhere else you should use our [docker-compose file](https://github.com/Leantime/docker-leantime/blob/master/docker-compose.yml). 
-
-Once started you can go to `<yourdomain.com>/install` and run the installation script.
-
-##### Docker Installation Notes #####
-
-If you intend to place Leantime behind a reverse proxy (nginx, etc.) to handle custom domain name resolution and SSL offloading, you will need to set the following environment variable in docker
-```
--e LEAN_APP_URL=https://yourdomain.com \
-```
-* Update yourdomain.com to your custom domain name.
-<br /><br />
-### 🤓 Installation (Development) ###
-
-There are two ways to install a development setup of LeanTime. The first (but most technical) is to install all pieces of the system locally. The second (and preferred method) is to use a docker containerized development environment.
-
-#### Local Development Installation ####
-
-* Clone repository to your local server
-* Create MySQL database
-* Run webpack builder via `make build-dev`
-* Point your local domain to the `public/` directory
-* Rename `config/.env.sample` to `config/.env`
-* Fill in your database credentials (username, password, host, dbname) in `config/.env`
-* Navigate to `<localdomain>/install`
-* Follow instructions to install database and user account
-
-#### Development Installation via Docker ####
-
-For development, we use a dockerized development environment. You will need to have ``docker``, ``docker compose``, ``make``, ``composer``, ``git`` and ``npm`` installed.
-
-* Notes for Windows Environments:
-    - Run all commands within the git bash terminal in order to utilize unix specific commands
-    - If installing php from a zip file, make sure to configure php.ini
-    It does not exist initially, so copy C:\php\php.ini-development to C:\php\php.ini. You will also need to edit php.ini in a text editor and enable all needed extensions for the build process. You can find these by running the make commands and looking for any extensions that error out as missing. You can enable them by searching php.ini for the extension that will look like: `;extension=gd` and removing the semicolon. 
-
-In order to build the development docker image, in the root of this repository, run a primer with
-
-```make clean build```
-
-afterwards, run 
-
-```make run-dev```
-
-this will start the development server on port 8090.
-
-The dev environment provides a MySQL server, mail server, s3 server, and should be good to go for your needs out of the box. The configuration of the development environment is found in ``.dev/.env``, and is already seeded with the appropriate values. **You should probably not be modifying this unless you plan to work on a feature for a specific integration**. the applications you get are as follows
-
-* [http://localhost:8090](http://localhost:8090) : leantime
-* [http://localhost:8081](http://localhost:8081) : maildev - to check emails sent
-* [http://localhost:8082](http://localhost:8082) : phpMyAdmin(authentication ``leantime:leantime``) to check the DB schema and data
-* [http://localhost:8083](http://localhost:8083) : s3ninja - to check s3 uploads. You need to enable this in the ``.dev/.env`` file by enabling s3
-
-Additionally, Xdebug is enabled, but you will have to modify your 
-IDE key in the ``.dev/xdebug.ini`` file(or alternatively, on your IDE). You also need to have port 9003 temporarily open on your firewall so you can utilize it effectively. This is because connections from docker to the host will count as external inbound connections
-<br /><br />
-###  🏗 Update ###
-
-#### Manual
-* Make sure to take a backup of your database and files
-* Replace all files in your directory with the updated version
-* If there were any database changes, the system will redirect you to `<yourdomain.com>/update`
-
-#### Script
-* Execute ./updateLeantime.sh in the root of your leantime application.
-
-#### Docker
-* Before updating, make sure your mysql container was started using a mounted volume, otherwise your content will be deleted
-* Delete/Stop existing container
-* Pull the latest docker image and rebuild using your compose file
-
-## ☁️ Not interested in hosting yourself? Let us do it for you ##
-
-We offer [managed hosting plans](https://leantime.io/managed-hosting/) as well as a [SaaS product](https://leantime.io/pricing/) so you can get all the benefits of Leantime without the hassle.
-Head to [leantime.io](https://leantime.io/) for more information.
-<br /><br />
-## 🤙 Need technical support? ##
-
-We can help you set up Leantime in your environment and customize it to your needs. Our support plans are [outlined on our website](https://leantime.io/priority-support/).
-
-## Contributing
-
-We're excited you are interested in contributing to Leantime. We want to make sure you have a great experience contributing to Leantime and that the new features you build will make it into core. 
-<br />
-
-### Bugs
-
-Find an issue on Github (or create a new one) add your name to it or comment that you will be working on it. Once fixed, create a  Pull Request.
-
-### New Features in Core
-
-If you have an idea about new features please reach out to us on Discord. This is where we coordinate feature development and discuss whether core is the right place to add your new features (Plugins is the alternative). 
-
-### Translations
-
-We use (Crowdin)[https://crowdin.com/project/leantime](https://crowdin.com/project/leantime) to manage all of our translations. If you don't see a language please message us on Discord. 
-
-
-### Community Support ##
-
-* Documentation [https://docs.leantime.io](https://docs.leantime.io)
-* Community Chat [Discord](https://discord.gg/4zMzJtAq9z)
-* File a bug report [https://github.com/Leantime/leantime/issues/new](https://github.com/Leantime/leantime/issues/new)
-* Translations [https://crowdin.com/project/leantime](https://crowdin.com/project/leantime)
-<br /><br />
-## ⚖️ LICENSE Exceptions ##
-
-Leantime is licensed under AGPLv3.
-This file forms part of the Leantime Software for which the following exception is added: Plugins within the `/app/plugins` directory which may contain plugins licensed under other licenses including our enterprise license.
-
-<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=856e290f-a6e9-4fbd-9b95-a835e39a0492" />
-
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -d --restart unless-stopped -p 80:80 --network leantime-net \
+-e LEAN_DB_HOST=mysql_leantime \
+-e LEAN_DB_USER=admin \
+-e LEAN_DB_PASSWORD=321.qwerty \
+-e LEAN_DB_DATABASE=leantime \
+-e LEAN_EMAIL_RETURN=changeme@local.local \
+--name leantime leantime/leantime:latest" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">除非您在其他地方定义了数据库，否则您应该使用我们的</font></font><a href="https://github.com/Leantime/docker-leantime/blob/master/docker-compose.yml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker-compose 文件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动后，您可以转到</font></font><code>&lt;yourdomain.com&gt;/install</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并运行安装脚本。</font></font></p>
+<div class="markdown-heading" dir="auto"><h5 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker安装注意事项</font></font></h5><a id="user-content-docker-installation-notes" class="anchor" aria-label="永久链接：Docker 安装说明" href="#docker-installation-notes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您打算将 Leantime 放置在反向代理（nginx 等）后面来处理自定义域名解析和 SSL 卸载，则需要在 docker 中设置以下环境变量</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>-e LEAN_APP_URL=https://yourdomain.com \
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="-e LEAN_APP_URL=https://yourdomain.com \" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 yourdomain.com 更新为您的自定义域名。
+</font></font><br><br></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤓 安装（开发）</font></font></h3><a id="user-content--installation-development" class="anchor" aria-label="永久链接：🤓 安装（开发）" href="#-installation-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有两种方法可以安装 LeanTime 的开发设置。</font><font style="vertical-align: inherit;">第一个（也是最技术性的）是在本地安装系统的所有部分。</font><font style="vertical-align: inherit;">第二种（也是首选方法）是使用 Docker 容器化开发环境。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地开发安装</font></font></h4><a id="user-content-local-development-installation" class="anchor" aria-label="永久链接：本地开发安装" href="#local-development-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将存储库克隆到本地服务器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建MySQL数据库</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过运行 webpack 构建器</font></font><code>make build-dev</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将您的本地域指向该</font></font><code>public/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重命名</font></font><code>config/.env.sample</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为</font></font><code>config/.env</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">填写您的数据库凭据（用户名、密码、主机、数据库名）</font></font><code>config/.env</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导航</font></font><code>&lt;localdomain&gt;/install</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按照说明安装数据库和用户帐户</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 Docker 进行开发安装</font></font></h4><a id="user-content-development-installation-via-docker" class="anchor" aria-label="永久链接：通过 Docker 进行开发安装" href="#development-installation-via-docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于开发，我们使用 Docker 化的开发环境。</font><font style="vertical-align: inherit;">您需要</font><font style="vertical-align: inherit;">安装</font></font><code>docker</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>docker compose</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>make</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>composer</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><code>git</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font><code>npm</code><font style="vertical-align: inherit;"></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows 环境注意事项：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 git bash 终端中运行所有命令，以便利用 Unix 特定命令</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果从 zip 文件安装 php，请确保配置 php.ini 最初不存在，因此将 C:\php\php.ini-development 复制到 C:\php\php.ini。</font><font style="vertical-align: inherit;">您还需要在文本编辑器中编辑 php.ini 并启用构建过程所需的所有扩展。</font><font style="vertical-align: inherit;">您可以通过运行 make 命令并查找任何错误提示为缺失的扩展来找到这些文件。</font><font style="vertical-align: inherit;">您可以通过在 php.ini 中搜索如下所示的扩展名来启用它们：</font></font><code>;extension=gd</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并删除分号。</font></font></li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了构建开发 docker 映像，请在此存储库的根目录中运行底漆：</font></font></p>
+<p dir="auto"><code>make clean build</code></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">之后，运行</font></font></p>
+<p dir="auto"><code>make run-dev</code></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这将在端口 8090 上启动开发服务器。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发环境提供了 MySQL 服务器、邮件服务器、s3 服务器，应该可以很好地满足您开箱即用的需求。</font><font style="vertical-align: inherit;">开发环境的配置可在 中找到</font></font><code>.dev/.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并且已植入适当的值。</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可能不应该修改它，除非您计划开发特定集成的功能</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">您收到的申请如下</font></font></p>
+<ul dir="auto">
+<li><a href="http://localhost:8090" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:8090</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : 精益时间</font></font></li>
+<li><a href="http://localhost:8081" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:8081</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : maildev - 检查发送的电子邮件</font></font></li>
+<li><a href="http://localhost:8082" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:8082</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : phpMyAdmin(authentication </font></font><code>leantime:leantime</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">) 检查数据库模式和数据</font></font></li>
+<li><a href="http://localhost:8083" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:8083</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : s3ninja - 检查 s3 上传。</font><font style="vertical-align: inherit;">您需要</font></font><code>.dev/.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过启用 s3 在文件中启用此功能</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此外，Xdebug 已启用，但您必须修改文件中</font></font><code>.dev/xdebug.ini</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（或者在 IDE 上）的 IDE 密钥。</font><font style="vertical-align: inherit;">您还需要在防火墙上临时打开端口 9003，以便您可以有效地利用它。</font><font style="vertical-align: inherit;">这是因为从 docker 到主机的连接将计为外部入站连接
+</font></font><br><br></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏗更新</font></font></h3><a id="user-content--update" class="anchor" aria-label="永久链接：🏗更新" href="#-update"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">手动的</font></font></h4><a id="user-content-manual" class="anchor" aria-label="永久链接：手册" href="#manual"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">确保备份数据库和文件</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将目录中的所有文件替换为更新版本</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果有任何数据库更改，系统会将您重定向到</font></font><code>&lt;yourdomain.com&gt;/update</code></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">脚本</font></font></h4><a id="user-content-script" class="anchor" aria-label="永久链接：脚本" href="#script"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在leantime应用程序的根目录中执行./updateLeantime.sh。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">码头工人</font></font></h4><a id="user-content-docker" class="anchor" aria-label="永久链接：Docker" href="#docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更新之前，请确保您的 mysql 容器已使用已安装的卷启动，否则您的内容将被删除</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">删除/停止现有容器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拉取最新的 docker 映像并使用您的 compose 文件重建</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☁️ 对托管自己不感兴趣？</font><font style="vertical-align: inherit;">让我们为您做</font></font></h2><a id="user-content-️-not-interested-in-hosting-yourself-let-us-do-it-for-you" class="anchor" aria-label="永久链接：☁️ 对托管自己不感兴趣？ 让我们为您做" href="#️-not-interested-in-hosting-yourself-let-us-do-it-for-you"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们提供</font></font><a href="https://leantime.io/managed-hosting/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">托管计划</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以及</font></font><a href="https://leantime.io/pricing/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SaaS 产品</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，因此您可以轻松获得 Leantime 的所有优势。</font><font style="vertical-align: inherit;">前往</font></font><a href="https://leantime.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">leantime.io</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多信息。
+</font></font><br><br></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤙 需要技术支持？</font></font></h2><a id="user-content--need-technical-support" class="anchor" aria-label="永久链接：🤙 需要技术支持？" href="#-need-technical-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们可以帮助您在您的环境中设置 Leantime 并根据您的需求进行定制。</font></font><a href="https://leantime.io/priority-support/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的网站上概述了</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的支持计划</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们很高兴您有兴趣为 Leantime 做出贡献。</font><font style="vertical-align: inherit;">我们希望确保您拥有为 Leantime 做出贡献的丰富经验，并且您构建的新功能将使其成为核心。
+</font></font><br></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虫子</font></font></h3><a id="user-content-bugs" class="anchor" aria-label="永久链接：错误" href="#bugs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Github 上找到一个问题（或创建一个新问题），在其中添加您的名字或评论您将致力于解决该问题。</font><font style="vertical-align: inherit;">修复后，创建拉取请求。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核心的新功能</font></font></h3><a id="user-content-new-features-in-core" class="anchor" aria-label="永久链接：Core 中的新功能" href="#new-features-in-core"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您对新功能有任何想法，请通过 Discord 与我们联系。</font><font style="vertical-align: inherit;">这是我们协调功能开发并讨论核心是否是添加新功能的正确位置的地方（插件是替代方案）。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译</font></font></h3><a id="user-content-translations" class="anchor" aria-label="永久链接：翻译" href="#translations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用 (Crowdin) </font></font><a href="https://crowdin.com/project/leantime" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://crowdin.com/project/leantime</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来管理我们所有的翻译。</font><font style="vertical-align: inherit;">如果您没有看到某种语言，请在 Discord 上给我们留言。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区支持</font></font></h3><a id="user-content-community-support" class="anchor" aria-label="永久链接：社区支持" href="#community-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font><a href="https://docs.leantime.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://docs.leantime.io</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区聊天</font></font><a href="https://discord.gg/4zMzJtAq9z" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交错误报告</font></font><a href="https://github.com/Leantime/leantime/issues/new"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/Leantime/leantime/issues/new</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译</font></font><a href="https://crowdin.com/project/leantime" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://crowdin.com/project/leantime</font></font></a>
+<br><br></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚖️ 许可例外情况</font></font></h2><a id="user-content-️-license-exceptions" class="anchor" aria-label="永久链接：⚖️ 许可例外情况" href="#️-license-exceptions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Leantime 根据 AGPLv3 获得许可。</font><font style="vertical-align: inherit;">此文件构成 Leantime 软件的一部分，其中添加了以下例外：目录中的插件</font></font><code>/app/plugins</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，可能包含根据其他许可证（包括我们的企业许可证）授权的插件。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a2a25f57badeb58aacc2b65262579c067574eb6359c8384a14a81aa4f97af001/68747470733a2f2f7374617469632e73636172662e73682f612e706e673f782d707869643d38353665323930662d613665392d346662642d396239352d613833356533396130343932"><img src="https://camo.githubusercontent.com/a2a25f57badeb58aacc2b65262579c067574eb6359c8384a14a81aa4f97af001/68747470733a2f2f7374617469632e73636172662e73682f612e706e673f782d707869643d38353665323930662d613665392d346662642d396239352d613833356533396130343932" data-canonical-src="https://static.scarf.sh/a.png?x-pxid=856e290f-a6e9-4fbd-9b95-a835e39a0492" style="max-width: 100%;"></a></p>
+</article></div>
